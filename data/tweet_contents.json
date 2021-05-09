@@ -1,0 +1,18 @@
+[
+    {
+        "status": "Hello World",
+        "media": null
+    },
+    {
+        "status": "中文發推也可以",
+        "media": null
+    },
+    {
+        "status": "Doge",
+        "media": "https://d1e00ek4ebabms.cloudfront.net/production/846fa298-c016-465f-b73e-0591df79ec98.png"
+    },
+    {
+        "status": "Video example",
+        "media": "http://techslides.com/demos/sample-videos/small.mp4"
+    }
+]
